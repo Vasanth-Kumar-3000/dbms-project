@@ -37,6 +37,12 @@ You can use this database to manage the supply chain of your company. It allows 
 
 ## Contributors
 BALA VENKATA SAI EASHAN (eashanbala13@gmail.com) (project lead)
-PANGI NEERISHA 
-MAHANTU SUMANTH 
+
+
+PANGI NEERISHA
+
+
+MAHANTU SUMANTH
+
+
 VASANTH KUMAR AVIDI(avkhero4pc@gmail.com)
